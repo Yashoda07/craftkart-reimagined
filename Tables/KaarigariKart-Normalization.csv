@@ -1,0 +1,21 @@
+ProductID,ProductName,Category1,Category2,SupplierName,SupplierPhone,Price,Color,Stock,Description
+P001,Daisy,Crochet,Flowers,Yarn World,9988776655,150,"White,yellow",15,crochet daisy
+P002,Tulip,Crochet,Flowers,Craft Supplies co.,9876501234,180,"Pink, White, Blue",12,crochet tulip
+P003,Tote Bag,Crochet,Bags,Yarn World,9988776655,700,"Black, Blue, Green, Brown",8,crochet tote bag
+P004,Top,Crochet,Clothing,Thread House,9123456789,1000,"Lavender, Yellow",5,crochet top
+P005,Sunflower Pot,Crochet,Flowers,Craft Supplies co.,9876501234,350,Yellow,10,crochet sunflower
+P006,Evil eye,Crochet,Accessories,Thread House,9123456789,200,"Blue, Black, White",12,crochet evil eye
+P007,Keychain,Crochet,Accessories,Yarn World,9988776655,150,"Pink, Blue, Yellow",20,crochet keychain
+P008,Bandana,Crochet,Accessories,Thread House,9123456789,350,"Green, Brown, Black, Red",7,crochet bandana
+P009,Pouch,Crochet,Stationery,Craft Supplies co.,9876501234,220,"Green, White",15,sunflower keychain
+P010,Bouquet,Crochet,"Gifts, Flowers",Yarn World,9988776655,1200,"Pink, Yellow, Blue, Green",5,crochet flower bouquet
+P011,Sunset ,Painting,Landscape,Canvas Craft Supplies,9898989898,1100,"Orange, Blue",3,Sunset canvas painting
+P012,Mountain Landscape,Painting,Landscape,Art Materials Hub,9765432109,1300,"Green, Blue, White",4,Mountain landscape canvas
+P013,Abstract Waves,Painting,Abstract,Canvas Craft Supplies,9898989898,1500,"Blue, White",2,Abstract wave painting
+P014,Floral Canvas,Painting,Floral,Art Materials Hub,9765432109,1100,"Pink, Green, White",5,Floral canvas artwork
+P015,Moonlight Night,Painting,Landscape,Canvas Craft Supplies,9898989898,1400,"Blue, Black, White",3,Moonlit night canvas
+P016,Ocean Waves,Painting,Nature,Art Materials Hub,9765432109,1600,"Blue, White",2,Ocean waves canvas painting
+P017,Starry Night,Painting,Landscape,Canvas Craft Supplies,9898989898,1800,"Blue, Yellow, Black",2,Starry night canvas artwork
+P018,Village Scenery,Painting,Nature,Art Materials Hub,9765432109,1250,"Green, Brown, Blue",4,Village scenery canvas
+P019,Cherry Blossom ,Painting,Floral,Canvas Craft Supplies,9898989898,1350,"Pink, White, Brown",3,Cherry blossom canvas painting
+P020,Peacock,Painting,Nature,Art Materials Hub,9765432109,1450,"Blue, Green, Gold",3,Peacock canvas artwork
